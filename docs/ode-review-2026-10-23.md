@@ -1,6 +1,6 @@
 # TARA and ODE 0.4: review of the latest changes
 
-**23 October 2026 · Documentation and integration review.** [Русский отчёт](ode-review-2026-10-23.ru.md).
+**23 October 2026 · Documentation and integration review.**
 
 ## Decision
 
@@ -57,4 +57,4 @@ Better information cannot guarantee an outcome. TARA's limits on exposure, bound
 
 ## Publication result intended by this review
 
-Keep the accepted TARA thesis and six starter practices unchanged. Publish an English-first repository with a Russian overview, existing practice downloads, candidate concepts and this dated review. Preserve the old working corpus separately. No normative TARA version, runtime adapter, efficacy result, license grant or ODE release is created by this publication.
+Keep the accepted TARA thesis and six starter practices unchanged. Publish the overview, existing practice downloads, candidate concepts and this dated review. Preserve the old working corpus separately. No normative TARA version, runtime adapter, efficacy result, license grant or ODE release is created by this publication.

@@ -182,8 +182,8 @@ TARA connects concepts, coordination and experience. Domain standards and method
 
 This page explains the current proposal. It is not a released normative specification or evidence that a universal TARA runtime already works.
 
-[Start with a personal agent / Начать с личного агента](../examples/personal-agent-trial.md)
+[Start with a personal agent](../examples/personal-agent-trial.md)
 
-[ODE review / Сопоставление с ODE](ode-review-2026-10-23.md)
+[ODE review](ode-review-2026-10-23.md)
 
-Source / Источник: https://opentara.org/en/protocol/
+Source: https://opentara.org/en/protocol/
