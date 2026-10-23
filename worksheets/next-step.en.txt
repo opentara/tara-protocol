@@ -1,0 +1,38 @@
+TARA Protocol — Start with a situation you actually face.
+In development · Conceptual overview · 21 October 2026
+
+We do not need to know everything or agree on everything to act together. We need to know which next step is acceptable, who may take it, within what limits, and when to reconsider.
+
+1. Participants & effects
+Who acts, who decides, and who bears the consequences? Who is missing from the conversation?
+
+____________________________________________________________
+
+2. Interests & differences
+What does each participant want to change or preserve? What remains in conflict?
+
+____________________________________________________________
+
+3. Knowledge & unknowns
+What is observed, inferred, disputed or inaccessible? Which unknown could change the next decision?
+
+____________________________________________________________
+
+4. A sufficient next step
+What will we focus on now, why now, and what limited change would be useful?
+
+____________________________________________________________
+
+5. Authority & resources
+What is already permitted? Who must agree to a change? What time, attention and other resources can we spend?
+
+____________________________________________________________
+
+6. Stop & review
+What triggers a pause? When will we review the effects, who participates, and how can the agreement change?
+
+____________________________________________________________
+
+Plain text · An exploratory aid, not a normative specification. Your notes stay with you.
+
+https://opentara.org/en/protocol/

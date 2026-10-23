@@ -1,0 +1,130 @@
+{
+  "format": "tara-source-review",
+  "version": "0.1.0",
+  "reviewedOn": "2026-10-23",
+  "decision": "No core-principle change required; update the ODE integration account.",
+  "evidenceBoundary": "Document, schema and selected checker inspection; no live-agent or efficacy test.",
+  "ode": {
+    "repository": "https://github.com/opendigitalemployee/specification",
+    "tag": "v0.4.0-draft.2",
+    "commit": "2de920485fb2665eaf7298ac65452a4a79412a9a",
+    "packageFormat": "0.4.0-draft",
+    "decisionExtension": "0.2.0",
+    "files": [
+      {
+        "path": "STATUS.md",
+        "sha256": "91ec40d56b817095f65764cf4f3135fe4386bbf5a3814ec1841ab611be8089d6",
+        "url": "https://github.com/opendigitalemployee/specification/blob/2de920485fb2665eaf7298ac65452a4a79412a9a/STATUS.md"
+      },
+      {
+        "path": "spec/DECISION-MAKING.md",
+        "sha256": "ac1396912425660e252c3980260d439cbf32f6c8d9ea2bbcb288eab869112af9",
+        "url": "https://github.com/opendigitalemployee/specification/blob/2de920485fb2665eaf7298ac65452a4a79412a9a/spec/DECISION-MAKING.md"
+      },
+      {
+        "path": "spec/CONTEXT.md",
+        "sha256": "f4eace211886d2533744980cac8495eedb348f04c6d7a5632ffb2eca8f9d4002",
+        "url": "https://github.com/opendigitalemployee/specification/blob/2de920485fb2665eaf7298ac65452a4a79412a9a/spec/CONTEXT.md"
+      },
+      {
+        "path": "spec/COMMUNICATION.md",
+        "sha256": "ae9146bd4d1b88058088e8eb9b54a36930b75f4f3577680a568a038782f4c6a6",
+        "url": "https://github.com/opendigitalemployee/specification/blob/2de920485fb2665eaf7298ac65452a4a79412a9a/spec/COMMUNICATION.md"
+      },
+      {
+        "path": "spec/catalogs/operating-conditions.json",
+        "sha256": "08b29aabf2d8c5bd2e8990d816ed070dfbe2893e8d712415487da3504cd58d0c",
+        "url": "https://github.com/opendigitalemployee/specification/blob/2de920485fb2665eaf7298ac65452a4a79412a9a/spec/catalogs/operating-conditions.json"
+      },
+      {
+        "path": "spec/schema/object.schema.json",
+        "sha256": "a333f87ec7d36b57a943baf4ec53c3875bcc2f8496774e68986ae117ed357b97",
+        "url": "https://github.com/opendigitalemployee/specification/blob/2de920485fb2665eaf7298ac65452a4a79412a9a/spec/schema/object.schema.json"
+      },
+      {
+        "path": "spec/extensions/decision-making.schema.json",
+        "sha256": "dcff244485dcf76559badabbe93aad01cf387eb7c3dc6892b67d22f426f05bd9",
+        "url": "https://github.com/opendigitalemployee/specification/blob/2de920485fb2665eaf7298ac65452a4a79412a9a/spec/extensions/decision-making.schema.json"
+      },
+      {
+        "path": "docs/agents/imperfect-world.md",
+        "sha256": "a779bc4da2eb49903df079a4c528a48b0c6a3d9846ef0eeeec7bcf16068184bc",
+        "url": "https://github.com/opendigitalemployee/specification/blob/2de920485fb2665eaf7298ac65452a4a79412a9a/docs/agents/imperfect-world.md"
+      },
+      {
+        "path": "docs/agents/self-description-contract.md",
+        "sha256": "ad25b990fa8ff4336deca9442592f111d84b842fa2c4c45c963d8a3502733349",
+        "url": "https://github.com/opendigitalemployee/specification/blob/2de920485fb2665eaf7298ac65452a4a79412a9a/docs/agents/self-description-contract.md"
+      },
+      {
+        "path": "docs/releases/0.4.0-draft.1.md",
+        "sha256": "6018b6bbdc61abf47c347e936fc5670996efd4a07814f1b35e111709df3cc43d",
+        "url": "https://github.com/opendigitalemployee/specification/blob/2de920485fb2665eaf7298ac65452a4a79412a9a/docs/releases/0.4.0-draft.1.md"
+      },
+      {
+        "path": "docs/releases/0.4.0-draft.2.md",
+        "sha256": "717c9322a64a63987907c99cc8329072b5aee4efb1a9186d4d6c44613fcc459c",
+        "url": "https://github.com/opendigitalemployee/specification/blob/2de920485fb2665eaf7298ac65452a4a79412a9a/docs/releases/0.4.0-draft.2.md"
+      },
+      {
+        "path": ".github/checks/decision_making.py",
+        "sha256": "867f761f906e4d4cddcc8eb115ed86a1246c83b3015c3a0a79fd3a2e9f2b5654",
+        "url": "https://github.com/opendigitalemployee/specification/blob/2de920485fb2665eaf7298ac65452a4a79412a9a/.github/checks/decision_making.py"
+      },
+      {
+        "path": "examples/product-employee/README.md",
+        "sha256": "68c81eea0e6f82bdae91b1e8e249c534348058915bec5873c9dc75ea396c3fc6",
+        "url": "https://github.com/opendigitalemployee/specification/blob/2de920485fb2665eaf7298ac65452a4a79412a9a/examples/product-employee/README.md"
+      },
+      {
+        "path": "examples/product-employee/decision-making.json",
+        "sha256": "b4e1c14bf411e1535844d332b00ce5511b764e305f4f1f8d62776cfeeba66e9e",
+        "url": "https://github.com/opendigitalemployee/specification/blob/2de920485fb2665eaf7298ac65452a4a79412a9a/examples/product-employee/decision-making.json"
+      }
+    ]
+  },
+  "tara": {
+    "overviewDate": "2026-10-21",
+    "overviews": [
+      "https://opentara.org/en/protocol/",
+      "https://opentara.org/ru/protocol/"
+    ],
+    "practiceFiles": [
+      {
+        "path": "skills/tara-next-step/SKILL.md",
+        "sha256": "2520603b959f8d01031983062e078b7410f18730bac6c756f04c69d5793421b4",
+        "source": "https://opentara.org/assets/protocol/en/tara-next-step/SKILL.md"
+      },
+      {
+        "path": "translations/ru/skills/tara-next-step/SKILL.md",
+        "sha256": "6fcd3d692901ff8bdb09f285ea4dcf59506db5dd0abf410996400e3f4e1cccf1",
+        "source": "https://opentara.org/assets/protocol/ru/tara-next-step/SKILL.md"
+      },
+      {
+        "path": "worksheets/next-step.en.txt",
+        "sha256": "7d7a5a161ccdf64de3506798e9210618c279eae373ece161d264a5318096682d",
+        "source": "https://opentara.org/assets/protocol/tara-next-step-en.txt"
+      },
+      {
+        "path": "worksheets/next-step.ru.txt",
+        "sha256": "2e29d21385969c380ae9134976000c67c2a8d42e904c9349c2198813a3cc479e",
+        "source": "https://opentara.org/assets/protocol/tara-next-step-ru.txt"
+      },
+      {
+        "path": "governance/questions.en.txt",
+        "sha256": "c5ebb7b0311bf37390204e5433763ac78ae15727c839c9ac5b25e3a945f2960d",
+        "source": "https://opentara.org/assets/protocol/tara-governance-en.txt"
+      },
+      {
+        "path": "governance/questions.ru.txt",
+        "sha256": "45774155b2e846debfc8856986e6ddbec468b2c4c6dbb4e74ceeefa1b61ee702",
+        "source": "https://opentara.org/assets/protocol/tara-governance-ru.txt"
+      }
+    ]
+  },
+  "issueStatesAtReview": {
+    "22": "closed",
+    "24": "open",
+    "26": "closed"
+  }
+}

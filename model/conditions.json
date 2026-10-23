@@ -1,0 +1,144 @@
+{
+  "format": "tara-starting-conditions",
+  "version": "0.1.0",
+  "status": "conceptual-draft",
+  "scope": "Nine overlapping starting conditions from the public overview; not an exhaustive taxonomy or a normative runtime contract.",
+  "source": "https://opentara.org/en/protocol/",
+  "conditions": [
+    {
+      "id": "uncertainty",
+      "en": {
+        "title": "Knowledge is incomplete",
+        "short": "An assumption can quietly become a fact.",
+        "risk": "Neither a person nor an agent has a complete view of the situation. More information also costs time and attention.",
+        "response": "Distinguish evidence, interpretation and unknowns. Seek information when it can change the next decision; state what remains uncertain."
+      },
+      "ru": {
+        "title": "Знание неполно",
+        "short": "Предположение легко принять за факт.",
+        "risk": "Ни человек, ни агент не видят ситуацию целиком. Получение дополнительных сведений тоже требует времени и внимания.",
+        "response": "Различать свидетельства, интерпретации и неизвестное. Искать сведения, если они могут изменить ближайшее решение; явно сохранять оставшуюся неопределённость."
+      }
+    },
+    {
+      "id": "perspectives",
+      "en": {
+        "title": "People see different worlds",
+        "short": "The same goal can mean different things.",
+        "risk": "Agreement on a word such as “growth” can hide incompatible ideas of success, acceptable cost and a desirable future.",
+        "response": "Make each relevant perspective and its criteria visible. Find a workable intersection without requiring a shared worldview."
+      },
+      "ru": {
+        "title": "Картины мира и будущего различаются",
+        "short": "Общая формулировка может скрывать разные цели.",
+        "risk": "Согласие со словом «рост» не означает согласия о том, что считать успехом, какой ценой его достигать и какое будущее желательно.",
+        "response": "Показать значимые позиции и их критерии. Найти рабочее пересечение, не требуя единой картины мира."
+      }
+    },
+    {
+      "id": "interests",
+      "en": {
+        "title": "Interests can genuinely conflict",
+        "short": "One participant’s gain can be another’s cost.",
+        "risk": "Better explanations do not always resolve a disagreement. Some benefits, burdens and opportunities cannot be shared equally.",
+        "response": "Negotiate the conditions of a particular step. Record unresolved differences, who accepts which costs, and how participants can object or withdraw."
+      },
+      "ru": {
+        "title": "Интересы могут действительно конфликтовать",
+        "short": "Выигрыш одного может стать ценой для другого.",
+        "risk": "Дополнительное объяснение не всегда снимает спор. Выгоды, нагрузку и возможности не всегда удаётся распределить одинаково.",
+        "response": "Договариваться об условиях конкретного шага. Фиксировать оставшиеся разногласия, кто принимает какую цену и как участники могут возразить или выйти."
+      }
+    },
+    {
+      "id": "errors",
+      "en": {
+        "title": "Understanding and execution can fail",
+        "short": "A clear instruction can still produce the wrong action.",
+        "risk": "A person can be misunderstood, an estimate can be wrong, or an implementation can behave differently from the plan.",
+        "response": "Check what actually happened. Stop the affected action when needed, make the error visible and restore the ability to act responsibly."
+      },
+      "ru": {
+        "title": "В понимании и исполнении возникают ошибки",
+        "short": "Даже ясное поручение может привести не к тому действию.",
+        "risk": "Человека могут неправильно понять, оценка может оказаться ошибочной, а реализация — повести себя иначе, чем предполагалось.",
+        "response": "Проверять, что произошло на самом деле. При необходимости останавливать затронутое действие, делать ошибку видимой и восстанавливать возможность ответственно действовать."
+      }
+    },
+    {
+      "id": "change",
+      "en": {
+        "title": "The world and its participants change",
+        "short": "Yesterday’s agreement may no longer fit.",
+        "risk": "Intentions, circumstances and capabilities evolve. A new objective can also conflict with an existing commitment.",
+        "response": "Set review triggers and revisit future action. Keep the history of decisions and commitments; do not silently rewrite it."
+      },
+      "ru": {
+        "title": "Мир и человек меняются",
+        "short": "Вчерашняя договорённость может перестать подходить.",
+        "risk": "Намерения, обстоятельства и возможности развиваются. Новая цель может противоречить уже принятому обязательству.",
+        "response": "Задавать поводы для пересмотра будущих действий. Сохранять историю решений и обязательств, не переписывая её задним числом."
+      }
+    },
+    {
+      "id": "resources",
+      "en": {
+        "title": "Resources are finite",
+        "short": "Coordination itself has a cost.",
+        "risk": "Time, money, attention, energy, expertise and computing capacity are limited. Repeated questions can consume the resource they were meant to protect.",
+        "response": "Set a budget for the step and its coordination. Account for resources already committed, the cost of delay and a tolerable loss."
+      },
+      "ru": {
+        "title": "Ресурсы конечны",
+        "short": "Само согласование тоже имеет цену.",
+        "risk": "Время, деньги, внимание, силы, экспертиза и вычисления ограничены. Повторные вопросы могут расходовать тот ресурс, который должны были сберечь.",
+        "response": "Задавать бюджет шага и его согласования. Учитывать уже обещанные ресурсы, цену задержки и допустимые потери."
+      }
+    },
+    {
+      "id": "human",
+      "en": {
+        "title": "People are not internally consistent",
+        "short": "A stated wish may be incomplete or provisional.",
+        "risk": "Someone may want more opportunity and less workload at the same time, or discover what they want through experience.",
+        "response": "Treat the initial formulation as a working understanding. Preserve tensions, offer a small informative trial and allow the person to revise their view."
+      },
+      "ru": {
+        "title": "Человек бывает противоречив",
+        "short": "Высказанное желание может быть неполным и временным.",
+        "risk": "Можно одновременно хотеть больше возможностей и меньше нагрузки — или понять собственное намерение только через опыт.",
+        "response": "Считать исходную формулировку рабочим пониманием. Сохранять противоречия, предлагать небольшую информативную пробу и оставлять человеку возможность изменить позицию."
+      }
+    },
+    {
+      "id": "power",
+      "en": {
+        "title": "Information and influence are unequal",
+        "short": "Silence is not consent; access is not authority.",
+        "risk": "Rank, fatigue, dependency and uneven access to information can distort apparent agreement. Some affected parties cannot speak for themselves.",
+        "response": "Distinguish who knows, who decides and who bears the consequences. Keep refusal and correction available; make missing representation explicit."
+      },
+      "ru": {
+        "title": "Информация и влияние распределены неравно",
+        "short": "Молчание не означает согласия, доступ — полномочия.",
+        "risk": "Статус, усталость, зависимость и разный доступ к сведениям влияют на видимое согласие. Не все затронутые стороны могут говорить за себя.",
+        "response": "Различать, кто знает, кто решает и кто несёт последствия. Сохранять возможность отказа и исправления; отмечать, чьи интересы пока не представлены."
+      }
+    },
+    {
+      "id": "effects",
+      "en": {
+        "title": "Consequences extend beyond the target",
+        "short": "A local success can create a wider harm.",
+        "risk": "An improved metric can shift work, risk or cost to customers, other teams, communities or living systems.",
+        "response": "Review benefits, burdens and unintended effects together. Identify who is affected but absent, and retain competing assessments of the result."
+      },
+      "ru": {
+        "title": "Последствия выходят за рамки цели",
+        "short": "Локальный успех может создавать более широкий вред.",
+        "risk": "Улучшение одной метрики может переносить работу, риск и издержки на клиентов, другие команды, сообщества или живые системы.",
+        "response": "Смотреть на пользу, нагрузку и побочные эффекты вместе. Учитывать отсутствующих затронутых участников и сохранять разные оценки результата."
+      }
+    }
+  ]
+}

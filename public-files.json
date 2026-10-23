@@ -1,0 +1,21 @@
+[
+  ".gitignore",
+  "AGENTS.md",
+  "README.md",
+  "docs/ode-review-2026-10-23.md",
+  "docs/ode-review-2026-10-23.ru.md",
+  "docs/protocol.en.md",
+  "docs/protocol.ru.md",
+  "examples/personal-agent-trial.md",
+  "governance/questions.en.txt",
+  "governance/questions.ru.txt",
+  "model/concepts.json",
+  "model/conditions.json",
+  "public-files.json",
+  "skills/tara-next-step/SKILL.md",
+  "sources/review.json",
+  "tools/check.py",
+  "translations/ru/skills/tara-next-step/SKILL.md",
+  "worksheets/next-step.en.txt",
+  "worksheets/next-step.ru.txt"
+]

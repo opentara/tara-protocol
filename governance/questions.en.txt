@@ -1,0 +1,30 @@
+TARA Protocol — Teach the agent. Govern the system.
+Practice draft 0.1 · 2026-10-21
+
+Instructions are one layer. For an organization of agents, we propose explicit decision rights, enforceable limits and a process for accepting changes. A prompt cannot enforce these controls by itself.
+
+Who can decide?
+Name the owner of a commitment, who may change it and whose objections must be considered. Existing authority supports autonomous work; a new goal does not silently replace an old obligation.
+
+____________________________________________________________
+
+What does the environment enforce?
+Apply access controls, budgets and stop conditions in the execution environment. Keep a reachable escalation path and a way to suspend affected actions.
+
+____________________________________________________________
+
+What travels between agents?
+Pass on the source, uncertainty, scope and unresolved objections alongside a claim or decision. A summary must not turn an assumption into evidence or silence into consent.
+
+____________________________________________________________
+
+How does a change become a rule?
+Record the proposed change, evidence, affected commitments and authorized reviewer. Test it within a bounded scope, keep versions and a rollback path, and observe effects after adoption.
+
+____________________________________________________________
+
+A current factual correction and a permanent change to behavior are different decisions. Self-development may change memory, instructions, tools or workflows; none of these changes proves improvement by itself.
+
+Working proposal · The checklist supports design and review; it does not implement access control or certify a system.
+
+https://opentara.org/en/protocol/#governance
